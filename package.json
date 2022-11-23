@@ -1,0 +1,15 @@
+{
+  "name": "rgipt_live",
+  "version": "1.0.0",
+  "description": "stream any thing",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Billu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
